@@ -1,4 +1,44 @@
-Xora - SaaS Landing Page
+## Installation
+
+### Prerequisites
+
+Ensure you have the following installed on your machine:
+
+- Node.js (v16 or higher)
+- npm or yarn (latest version)
+
+### Steps
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/your-username/xora-saas-landing-page.git
+    cd xora-saas-landing-page
+    ```
+
+2. **Install Dependencies:**
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3. **Start the Development Server:**
+
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+
+4. **Build for Production:**
+
+    ```bash
+    npm run build
+    # or
+    yarn build
+    ```ora - SaaS Landing Page
 
 Welcome to Xora, a modern and responsive SaaS landing page designed to help showcase your product or service effectively. This README outlines the structure, technologies, and steps to set up and customize the project.
 
